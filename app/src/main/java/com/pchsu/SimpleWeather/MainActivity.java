@@ -1,4 +1,4 @@
-package com.pchsu.stormy;
+package com.pchsu.SimpleWeather;
 
 import android.content.Context;
 import android.content.Intent;

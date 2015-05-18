@@ -1,4 +1,4 @@
-package com.pchsu.stormy;
+package com.pchsu.SimpleWeather;
 
 import android.app.AlertDialog;
 import android.app.Dialog;

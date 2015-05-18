@@ -1,4 +1,4 @@
-package com.pchsu.stormy;
+package com.pchsu.SimpleWeather;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
